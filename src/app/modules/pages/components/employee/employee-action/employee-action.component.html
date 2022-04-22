@@ -1,0 +1,29 @@
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <label>Name<span style="color: #1E3046">*</span> </label>
+        <input type="text" [(ngModel)]="employee.name" placeholder="Name" style="width:100%" pInputText>
+    </div>
+    <div class="col-md-6 mb-4">
+        <label>Email <span style="color: #1E3046">*</span> </label>
+        <input type="email" [(ngModel)]="employee.email" placeholder="Email" style="width:100%" pInputText>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <label>Age<span style="color: #1E3046">*</span> </label>
+        <input type="text" [(ngModel)]="employee.age" placeholder="Age" style="width:100%" pInputText>
+    </div>
+    <div class="col-md-6 mb-4">
+        <label>Role</label>
+        <p-dropdown appendTo="body" [options]="roles" [(ngModel)]="employee.roleId" [style]="{'minWidth':'100%'}" placeholder="Select Role"
+            [filter]="true" filterBy="Name" optionLabel="Name" optionValue="Id" [showClear]=true>
+        </p-dropdown>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="d-flex justify-content-end">
+            <button pButton pRipple (click)="save()">{{isEdit?'Update':'Create'}}</button>
+        </div>
+    </div>
+</div>

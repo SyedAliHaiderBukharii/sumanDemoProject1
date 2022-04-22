@@ -1,0 +1,192 @@
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\appsettings.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.exe
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.dev.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoAPIS.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\scopedcss\bundle\DemoAPIS.styles.css
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\staticwebassets\DemoAPIS.StaticWebAssets.Manifest.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.RazorTargetAssemblyInfo.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CopyComplete
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\refint\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\DemoAPIS.genruntimeconfig.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoAPIS\obj\Debug\net5.0\ref\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\appsettings.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.exe
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.dev.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\scopedcss\bundle\DemoAPIS.styles.css
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\staticwebassets\DemoAPIS.StaticWebAssets.Manifest.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.RazorTargetAssemblyInfo.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CopyComplete
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\refint\DemoAPIS.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.genruntimeconfig.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoAPIS\obj\Debug\net5.0\ref\DemoAPIS.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\appsettings.Development.json
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\appsettings.json
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.exe
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.deps.json
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.json
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.runtimeconfig.dev.json
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\ref\DemoAPIS.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoAPIS.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Humanizer.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoRepository.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\bin\Debug\net5.0\DemoDomain.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.AssemblyReference.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfoInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.AssemblyInfo.cs
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CoreCompileInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\scopedcss\bundle\DemoAPIS.styles.css
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\staticwebassets\DemoAPIS.StaticWebAssets.Manifest.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.RazorTargetAssemblyInfo.cache
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.csproj.CopyComplete
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\ref\DemoAPIS.dll
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoAPIS\obj\Debug\net5.0\DemoAPIS.genruntimeconfig.cache

@@ -1,0 +1,54 @@
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoRepository.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.dev.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CopyComplete
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\refint\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\DemoRepository.genruntimeconfig.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoRepository\obj\Debug\net5.0\ref\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.dev.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CopyComplete
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\refint\DemoRepository.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.genruntimeconfig.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoRepository\obj\Debug\net5.0\ref\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.deps.json
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.json
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.runtimeconfig.dev.json
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\ref\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoRepository.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\bin\Debug\net5.0\DemoDomain.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.AssemblyReference.cache
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfoInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.AssemblyInfo.cs
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CoreCompileInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.csproj.CopyComplete
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\ref\DemoRepository.dll
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoRepository\obj\Debug\net5.0\DemoRepository.genruntimeconfig.cache

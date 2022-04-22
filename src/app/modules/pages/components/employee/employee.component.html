@@ -1,0 +1,64 @@
+<div class="wrapper">
+    <div class="container">
+        <div class="pt-5">
+            <p-table #dt [value]="employees" [globalFilterFields]="['name']" [resizableColumns]="true"
+                columnResizeMode="expand" styleClass="p-datatable-gridlines" responsiveLayout="scroll"
+                [autoLayout]="true" [exportHeader]="'customExportHeader'">
+                <ng-template pTemplate="caption">
+                    <div class="p-d-flex d-flex align-items-center justify-content-between">
+                        <label>Employees List</label>
+                        <!-- <button style="width: 7%; border-radius: 10px;height: 40px;" type="button" label="CSV" pButton pRipple
+                                icon="pi pi-file" (click)="dt.exportCSV()" class="mr-2" pTooltip="CSV"
+                                tooltipPosition="bottom"></button> -->
+                        <div class="col-md-6">
+                            <div class="d-flex justify-content-end gap-2">
+                                <button type="button" label="Create" pButton pRipple icon="pi pi-file"
+                                    (click)="create()" class="mr-2" pTooltip="Create" tooltipPosition="bottom"></button>
+                                <span class="p-input-icon-left p-ml-auto">
+                                    <i class="pi pi-search"></i>
+                                    <input pInputText type="text" (input)="search($event)"
+                                        placeholder="Search keyword" />
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </ng-template>
+                <ng-template pTemplate="header" let-columns>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Role</th>
+                        <th>Age</th>
+                        <th>Actions</th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-rowData let-rowIndex="rowIndex">
+                    <tr>
+                        <td>{{rowData.Name}}</td>
+                        <td>{{rowData.Email}}</td>
+                        <td>{{rowData.RoleName}}</td>
+                        <td>{{rowData.age}}</td>
+                        <td>
+                            <button pButton pRipple type="button" icon="pi pi-pencil"
+                                class="p-button-sm p-button-rounded p-button-info" (click)="edit(rowData.Id,rowIndex)"></button>
+                            <button pButton pRipple type="button" icon="pi pi-trash"
+                                class="p-button-sm p-button-rounded p-button-danger ms-2" (click)="delete(rowData,rowIndex)"></button>
+                        </td>
+                    </tr>
+
+                </ng-template>
+                <ng-template pTemplate="emptymessage" let-columns>
+                    <tr>
+                        <td [attr.colspan]="30" class="text-center">
+                            <strong>No records found</strong>
+                        </td>
+                    </tr>
+                </ng-template>
+            </p-table>
+            <p-paginator currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+                [totalRecords]="totalCount" [rows]="rows" [rowsPerPageOptions]="[10,20,50,100,{showAll:'All'}]"
+                (onPageChange)="paginate($event)" [pageLinkSize]="rows">
+            </p-paginator>
+        </div>
+    </div>
+</div>

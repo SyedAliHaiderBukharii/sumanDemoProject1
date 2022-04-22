@@ -1,0 +1,36 @@
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\bin\Debug\net5.0\DemoDomain.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\refint\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\DemoDomain\obj\Debug\net5.0\ref\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.deps.json
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.AssemblyReference.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfoInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfo.cs
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\refint\DemoDomain.dll
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.pdb
+C:\Users\Rizwan Ahmed\Desktop\DemoProjectAPIS\DemoProjectAPIS\GenericRepo\DemoDomain\obj\Debug\net5.0\ref\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.deps.json
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\bin\Debug\net5.0\ref\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\bin\Debug\net5.0\DemoDomain.pdb
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.AssemblyReference.cache
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfoInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.AssemblyInfo.cs
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.csproj.CoreCompileInputs.cache
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\ref\DemoDomain.dll
+D:\Downloads\DemoProjectGenericRepo\DemoDomain\obj\Debug\net5.0\DemoDomain.pdb

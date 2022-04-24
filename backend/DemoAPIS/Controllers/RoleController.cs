@@ -1,4 +1,4 @@
-﻿using DemoAPIS.Configurations;
+using DemoAPIS.Configurations;
 using DemoDomain.Interfaces;
 using DemoDomain.Models;
 using Microsoft.AspNetCore.Http;
@@ -124,8 +124,8 @@ namespace DemoAPIS.Controllers
             }
 
             var GetRole = _unitOfWork.Roles.Get(id);
-        //    return Ok(GetRole);
-            return StatusCode(StatusCodes.Status200OK, new ResponseBack<Role> { Status = "Ok", Message = "Role Deleted Successfully", Data = GetRole.Result }) ;
+   
+            return StatusCode(StatusCodes.Status200OK, new ResponseBack<Role> { Status = "Ok", Message = "Role Found Successfully", Data = GetRole.Result }) ;
         }
 
     }
